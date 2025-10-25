@@ -1,0 +1,5 @@
+{
+  "name": "AI Toolkit Pro",
+  "description": "A single, integrated user interface that combines a suite of AI tools: Image Generator, Chatbot, Translator, and Code Generator. Designed with a modern, dark aesthetic for a seamless and intuitive user experience. To embed this application into a platform like Blogger, it must first be built into static HTML, CSS, and JavaScript files, hosted on a web server, and then embedded using an iframe.",
+  "requestFramePermissions": []
+}
